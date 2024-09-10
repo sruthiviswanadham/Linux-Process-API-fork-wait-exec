@@ -60,7 +60,7 @@ int main(void)
 
 
 
-##OUTPUT
+### OUTPUT
 
 ```
 localhost:~# ./a.out
@@ -96,7 +96,7 @@ exit(0);}
 }
 ```
 
-##OUTPUT
+### OUTPUT
 
 ```
 localhost:~# ./a.out
@@ -138,7 +138,7 @@ printf("Running ps with execlp. Now with path specified\n");
 ```
 
 
-##OUTPUT
+### OUTPUT
 
 ```
 localhost:~# ./a.out
